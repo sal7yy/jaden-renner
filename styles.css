@@ -23,7 +23,7 @@ a {
 .links {
     color: #ffffff;
     text-decoration: underline transparent;
-    line-height: 110%;
+    line-height: 115%;
     margin: 0 -.25rem;
     padding: 0 .25rem;
     transition: color .25s, font-size .25s ease-in-out;
@@ -134,7 +134,7 @@ h3 {
     text-align: center;
     color: #ffffff;
     text-decoration: underline transparent;
-    line-height: 110%;
+    line-height: 115%;
     margin: 0 -.25rem;
     padding: 0 .25rem;
     transition: color .25s, font-size .25s ease-in-out;
@@ -143,4 +143,16 @@ h3 {
   .links-about:hover {
     color: #ffbb00;
     font-size: 110%;
+  }
+
+  /* Skills Page */
+  
+  h6 {
+    position: relative;
+    margin-top: 5px;
+  }
+
+  h5 {
+    position: relative;
+    margin-bottom: -5px;
   }
